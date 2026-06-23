@@ -1,0 +1,14 @@
+[
+  {
+    "Url": "https://github.com/audiamus/AaxAudioConverter/releases/download/v1.18.2/AaxAudioConverter-1.18.2-Setup.exe",
+    "AppName": "AaxAudioConverter",
+    "Version": "1.18.2",
+    "Preview": false,
+    "Descript": null,
+    "Md5": "caacf818b0c41f2280ea3d1c5982351b"
+  },
+  {
+    "AppName": "BookLibConnect",
+    "InfoLinkUrl": "https://raw.githubusercontent.com/audiamus/BookLibConnect/master/res/Setup.json"
+  }
+]
